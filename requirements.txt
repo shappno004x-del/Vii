@@ -1,0 +1,4 @@
+flask==2.3.3
+aiohttp==3.9.1
+protobuf==4.25.3
+pycryptodome==3.19.1
